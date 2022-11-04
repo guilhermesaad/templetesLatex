@@ -1,0 +1,56 @@
+\documentclass[a4paper, 11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage[lmargin=3cm,tmargin=3cm,rmargin=2cm,bmargin=2cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+
+
+\title{relatorioX}
+\author{Saadin }
+\date{Mês 2022}
+\linespread{1.0}
+
+
+\begin{document}
+
+
+\section*{Relatório semana X}
+
+
+\hspace{6mm}Referente às dúvidas e comparecimentos na monitoria da (X+1)ª semana letiva (dd/mm - dd/mm) da disciplina de Geometria Analítica.\\
+
+\quad\textbf{Docente:} Alonso Sepúlveda Castellanos
+
+\quad\textbf{Monitor:} Guilherme Saad Botrel 12121ECP018
+
+
+
+
+\subsection{Terça-feira: 17h-19h (dd/mm):}
+
+\hspace{4mm}\textbf{Discentes presentes:}
+
+\textbf{Dúvidas Gerais:}
+
+
+
+
+\subsection{Quarta-feira: 13h-14:30h (dd/mm):}
+
+\hspace{4mm}\textbf{Discentes presentes:}
+
+\textbf{Dúvidas Gerais:}
+
+
+
+
+\subsection{Sexta-feira: 11h-12h e 13h-14h (dd/mm):}
+
+\hspace{6mm}\textbf{Discentes presentes:}
+
+\textbf{Dúvidas Gerais:}
+
+
+
+\end{document}

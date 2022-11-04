@@ -1,0 +1,87 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage[lmargin=3cm,tmargin=3cm,rmargin=2cm,bmargin=2cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+%\usepackage{scrpage2}
+
+
+\usepackage{fancyhdr}
+
+
+\title{Relatório X: ___________________}
+\date{dd/mm/aaaa}
+
+
+\begin{document}
+\thispagestyle{empty}
+
+\begin{figure}[ht]
+    \begin{minipage}{0.21\linewidth}
+    \flushleft
+    \includegraphics[width = 2cm]{logoUFU.png}
+    \end{minipage}
+    \begin{minipage}{0.55\linewidth}
+    \centering
+    \Large \textbf{Universidade Federal de Uberlândia\\
+    \Large Faculdade de Engenharia Elétrica\\
+    \Large Metrologia Prática  - FEELT31240A2}
+    
+    \end{minipage}
+    \begin{minipage}{0.21\linewidth}
+    \flushright
+    \includegraphics[width = 2cm]{logoFEELT.png}
+    \end{minipage}  
+\end{figure}
+
+\vspace{60mm}
+
+\begin{Huge}
+\begin{center}
+    RELATÓRIO X: ___________________
+\end{center}
+\end{Huge}
+
+\vspace{60mm}
+
+\textbf{Data:} 
+\vspace{2mm}
+
+\quad- dd/mm/aaaa
+\vspace{4mm}
+
+\textbf{Discentes:}
+\vspace{2mm}
+
+\quad- Augusto Soares Porto - 12121ECP016
+
+\quad- Guilherme Saad Botrel - 1212ECP018 
+
+\quad- Marianna Andrade Couto - 12121EAU002
+
+\quad- Yan Invernizzi - 12121EEL020
+
+
+\section*{INTRODUÇÃO}
+\setcounter{page}{0}
+
+
+\section{OBJETIVOS}
+
+
+\section{MATERIAIS E MÉTODOS}
+
+
+\section{RESULTADOS E DISCUSSÕES}
+
+
+\section{RESOLUÇÃO DE EXERCÍCIOS DO ROTEIRO X}
+
+
+\section{BIBLIOGRAFIA}
+
+\begin{itemize}
+\end{itemize}
+
+\end{document}
